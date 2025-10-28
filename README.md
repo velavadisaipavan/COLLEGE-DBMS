@@ -62,13 +62,13 @@ ER Diagram image
 Query result screenshots
 Database schema visualization
 
-6. Portfolio Integration
+5. Portfolio Integration
 Add to LinkedIn under projects
 Update resume with bullet points
 Create portfolio website entry
 Prepare demo for interviews
 
-7. Advanced Showcase (Optional)
+6. Advanced Showcase (Optional)
 Video demo (2-3 minutes)
 Blog post explaining the project
 Presentation slides
